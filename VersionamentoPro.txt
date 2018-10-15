@@ -1,0 +1,2 @@
+À princípio, as linguagens de programação eram somente códigos, diferentes dos que são utilizados nos computadores atuais. A sua história está intimamente ligada a história dos computadores, pois as linguagens foram criadas justamente para que o homem pudesse através das máquinas, usar sequências lógicas para resolver um problema. Ao longo dos tempos, diversas foram criadas para um propósito específico. Por isso, pode-se dizer que este é o motivo de existir várias delas.
+Fazendo o versionamento parte 2
